@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Dropbox_lab_test": {
+      "commandName": "Project",
+      "commandLineArgs": "SET serviceURL=dsklklsdklsdklsdkldsklkldsklsdklsdkllk",
+      "environmentVariables": {
+        "serviceUrl": "https://api.dropboxapi.com/2"
+      }
+    }
+  }
+}
