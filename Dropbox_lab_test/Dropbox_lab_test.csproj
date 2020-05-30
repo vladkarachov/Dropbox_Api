@@ -23,8 +23,4 @@
     <ProjectReference Include="..\Dropbox_lab\Dropbox_lab.csproj" />
   </ItemGroup>
 
-  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
-    <Exec Command="SET serviceURL=dsklklsdklsdklsdkldsklkldsklsdklsdkllk" />
-  </Target>
-
 </Project>
