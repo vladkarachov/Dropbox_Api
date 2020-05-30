@@ -14,8 +14,4 @@
     <PackageReference Include="SpecFlow.NUnit" Version="3.1.97" />
   </ItemGroup>
 
-  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
-    <Exec Command="SET serviceURL=dsklklsdklsdklsdkldsklkldsklsdklsdkllk" />
-  </Target>
-
 </Project>
