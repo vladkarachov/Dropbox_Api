@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dropbox_lab", "Dropbox_lab\Dropbox_lab.csproj", "{F6C89AE6-DFB0-434C-96B0-4B4BEED08E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dropbox_lab_test", "Dropbox_lab_test\Dropbox_lab_test.csproj", "{22ABC9BA-9443-4992-9D1C-5D0E34F79749}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1EB553BA-BB30-49D4-AF18-5257A270FE52}"
+	ProjectSection(SolutionItems) = preProject
+		.env = .env
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C89AE6-DFB0-434C-96B0-4B4BEED08E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C89AE6-DFB0-434C-96B0-4B4BEED08E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C89AE6-DFB0-434C-96B0-4B4BEED08E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C89AE6-DFB0-434C-96B0-4B4BEED08E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22ABC9BA-9443-4992-9D1C-5D0E34F79749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22ABC9BA-9443-4992-9D1C-5D0E34F79749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22ABC9BA-9443-4992-9D1C-5D0E34F79749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22ABC9BA-9443-4992-9D1C-5D0E34F79749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2A4479E-EA5E-42B3-AE14-08BBEA5D8EE3}
+	EndGlobalSection
+EndGlobal
